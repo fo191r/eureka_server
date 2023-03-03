@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.study.docker'
 version = '1.0.0'
-sourceCompatibility = '19'
+sourceCompatibility = '17'
 
 repositories {
     mavenCentral()
